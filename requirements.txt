@@ -1,5 +1,2 @@
-scikit
-matplotlib
-numpy
-pandas
-nlptk
+streamlit
+requests
